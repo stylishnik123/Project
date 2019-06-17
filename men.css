@@ -1,0 +1,97 @@
+#review
+{
+width:700px;height:60px;margin-left:380px;border: white; margin-top:-300px;
+font-size:32px;color:#B5443E;text-align:center;font-style:Times new roman;font-weight:400;
+
+}
+#clientbox
+{
+margin-left:0px;height:180px;width:526px;border:solid grey;border-radius:20px;margin-top:-245px;
+}
+
+#client
+{
+width:100px;margin-left:25px;margin-top:-370px;float:left;border: pink;height:90px;
+}
+
+#name
+{
+height:40px;width:450px;border: pink;color:#B5443E; margin-left:170px;margin-top:15px;font-size:28px;
+}
+#fstar
+{
+margin-left:200px;border: blue;width:200px;height:60px;margin-top:0px;
+}
+#view
+{
+font-size:18px;color:white;margin-top:-20px; border:hide;width:526px;height:80px; margin-left:0px; text-align:center;
+}
+#star
+{
+height:60px; width:70px;border: green;margin-top:-160px;margin-left:400px;
+}
+#like
+{
+height:60px; width:70px;border: green;margin-top:-60px;margin-left:450px;
+}
+#clientbox1
+{
+margin-left:0px;height:170px;width:526px;border:solid grey;border-radius:20px;margin-top:10px; 
+}
+
+#client1
+{
+width:100px;margin-left:25px;margin-top:-170px;float:left;border: pink;height:90px;
+}
+#name1
+{
+height:30px;width:170px;border:hide; color:#B5443E; margin-left:170px;margin-top:-160px;font-size:28px;;float:left;
+}
+#fstar1
+{
+margin-left:200px;border:hide;width:100px;height:20px;margin-top:-120px; float:left;
+}
+#view1
+{
+font-size:18px;color:white;margin-top:-80px; border:hide;width:526px;height:60px; margin-left:0px; text-align:center; float:left;
+}
+#star1
+{
+height:50px; width:40px;border:hide;margin-top:-150px;margin-left:400px;float:left;
+}
+#like1
+{
+height:50px; width:40px;border:hide;margin-top:-150px;margin-left:450px;float:left;
+}
+#clientbox2
+{
+margin-left:0px;height:190px;width:526px;border:solid grey;border-radius:20px;margin-top:3px; float:left;
+}
+#clientbox3
+{
+margin-left:0px;height:190px;width:526px;border:solid grey;border-radius:20px;margin-top:10px; float:left;
+}
+#client2
+{
+width:100px;margin-left:25px;margin-top:10px;float:left;border: pink;height:90px;
+}
+#name2
+{
+height:30px;width:260px;border:hide; color:#B5443E; margin-left:170px;margin-top:-80px;font-size:28px;float:left;
+}
+#fstar2
+{
+margin-left:200px;border:hide;width:100px;height:20px;margin-top:-50px; float:left;
+}
+#view2
+{
+font-size:18px;color:white;margin-top:-0px; border:hide;width:526px;height:60px; margin-left:0px; text-align:center; float:left;
+}
+#star2
+{
+height:50px; width:40px;border:hide;margin-top:-120px;margin-left:400px;float:left;
+}
+#like2
+{
+height:50px; width:40px;border:hide;margin-top:-120px;margin-left:450px;float:left;
+}
